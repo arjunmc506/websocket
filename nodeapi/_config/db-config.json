@@ -1,0 +1,38 @@
+{
+    "port": "3094",
+    "log": {
+        "path": "D:\\ACP New\\ACP-New\\nodeapi\\logs\\"
+    },
+    "database": [
+        {
+            "otp_db": {
+                "host": "192.9.200.207",
+                "port": "3306",
+                "user": "root",
+                "password": "Root@123",
+                "database": "acp",
+                "poolMin": 5,
+                "poolMax": 5,
+                "poolIncrement": 0,
+                "multipleStatements": true,
+                "connectionLimit": 5000
+            }
+        },
+        {
+            "api_db": {
+                "host": "192.9.200.207",
+                "port": "3306",
+                "user": "root",
+                "password": "Root@123",
+                "database": "pmmw",
+                "poolMin": 5,
+                "poolMax": 5,
+                "poolIncrement": 0,
+                "multipleStatements": true,
+                "connectionLimit": 5000
+            }
+        }
+       
+       
+    ]
+}

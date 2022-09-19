@@ -1,0 +1,14 @@
+Thu Jun 10 2021 10:42:04  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 11:09:13  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 11:42:43  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 12:03:50  : Error :sms.Controller.GetAllSMS() : "Cannot read property 'userid' of undefined"
+Thu Jun 10 2021 12:03:53  : Error :sms.Controller.GetAllSMS() : "Cannot read property 'userid' of undefined"
+Thu Jun 10 2021 12:03:55  : Error :sms.Controller.GetAllSMS() : "Cannot read property 'userid' of undefined"
+Thu Jun 10 2021 12:08:46  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 17:33:29  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 21:09:51  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 21:27:41  : Error :sms.Controller.GetAllSMS() : "Cannot read property 'userid' of undefined"
+Thu Jun 10 2021 21:27:46  : Error :sms.Controller.GetAllSMS() : "Cannot read property 'userid' of undefined"
+Thu Jun 10 2021 21:27:49  : Error :sms.Controller.GetAllSMS() : "Cannot read property 'userid' of undefined"
+Thu Jun 10 2021 21:29:35  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Thu Jun 10 2021 21:38:47  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache

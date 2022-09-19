@@ -1,0 +1,10 @@
+Wed Feb 17 2021 10:49:27  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 11:06:46  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 11:20:52  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 11:23:13  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 12:47:11  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 12:51:11  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 12:52:06  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 12:59:22  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 12:59:46  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
+Wed Feb 17 2021 13:01:03  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache

@@ -1,0 +1,1 @@
+Tue Feb 16 2021 12:28:31  : Error :Info : closePool() : Error: NJS-047: poolAlias "cpaaswebpool" not found in the connection pool cache
